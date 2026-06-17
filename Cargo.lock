@@ -100,6 +100,7 @@ dependencies = [
  "clap",
  "core_affinity",
  "crossbeam-utils",
+ "libc",
  "ndarray",
  "ordered-float",
  "quanta",
